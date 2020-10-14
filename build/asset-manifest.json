@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.589c14d2.chunk.css",
+    "main.js": "/static/js/main.6f8f1cec.chunk.js",
+    "main.js.map": "/static/js/main.6f8f1cec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.62e09ec8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.62e09ec8.js.map",
+    "static/js/2.65689629.chunk.js": "/static/js/2.65689629.chunk.js",
+    "static/js/2.65689629.chunk.js.map": "/static/js/2.65689629.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a3f580ce0328ac87753708a9d41f72d2.js": "/precache-manifest.a3f580ce0328ac87753708a9d41f72d2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.589c14d2.chunk.css.map": "/static/css/main.589c14d2.chunk.css.map",
+    "static/js/2.65689629.chunk.js.LICENSE.txt": "/static/js/2.65689629.chunk.js.LICENSE.txt",
+    "static/media/Clients.png": "/static/media/Clients.05e5bef6.png",
+    "static/media/Cover.png": "/static/media/Cover.c7d851ad.png",
+    "static/media/banner2.png": "/static/media/banner2.4ebe42f7.png",
+    "static/media/facebook-f-brands.svg": "/static/media/facebook-f-brands.8883378a.svg",
+    "static/media/heroImageDesktop.png": "/static/media/heroImageDesktop.4d9bf189.png",
+    "static/media/heroImageMobile.png": "/static/media/heroImageMobile.43499b7e.png",
+    "static/media/heroImageTablet.png": "/static/media/heroImageTablet.fb11e6ba.png",
+    "static/media/linkedin-in-brands.svg": "/static/media/linkedin-in-brands.c3c832ee.svg",
+    "static/media/twitter-brands.svg": "/static/media/twitter-brands.f82915c6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62e09ec8.js",
+    "static/js/2.65689629.chunk.js",
+    "static/css/main.589c14d2.chunk.css",
+    "static/js/main.6f8f1cec.chunk.js"
+  ]
+}

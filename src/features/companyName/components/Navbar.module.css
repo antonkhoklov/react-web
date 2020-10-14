@@ -1,0 +1,10 @@
+.Navbar li {
+  list-style: none;
+  margin: 0 2rem;
+}
+.Navbar li a {
+  text-decoration: none;
+  color: #000;
+
+  opacity: 0.8;
+}

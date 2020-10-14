@@ -1,0 +1,132 @@
+.wrapper{
+    height: 80px;
+    margin: 0;
+    padding: 0;
+
+}
+.btnContainer {
+    /* max-width: 21.2%;
+    background-color: white; */
+}
+.btnContainer button {
+    padding: 13px;
+    margin:0;
+    border: none;
+    background-color: white;
+    outline: none;
+    color: #3B3A40;
+}
+.container{
+    width: 760px;
+    height: 80px;
+    background-color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.searchIcon {
+    width: 40px;
+    height: 40px;
+
+    line-height: 53px;
+    text-align: right;
+}
+.locationIcon{
+    width: 40px;
+    height: 40px;
+    border-left: 1px solid #E8E7E8;
+    margin-left: 90px;
+    line-height: 55px;
+    text-align: right;
+}
+.searchInput {
+
+}
+input[type=text] {
+    width: 170px;
+    height: 70px;
+    border:none;
+    outline: none;
+    font-size: 18px;
+}
+input[type=text]::-webkit-input-placeholder{
+    font-size: 18px;
+    color: #3B3A40; 
+    }
+
+.searchBtn {
+    background-color: #FF8149;
+    padding: 17px 28px;
+
+    border:none;
+    color: white;
+
+    font-size: 18px;
+    outline: none;
+}
+
+/* mobile */
+
+@media only screen and (max-width: 600px) {
+    .wrapper{
+        /* top: 155%;
+        left:7%; */
+    }
+    .btnContainer {
+        display: table-cell;
+        max-width:30%;
+
+    }
+   .container {
+    flex-direction: column;
+    width: 350px;
+    height: 220px;
+    align-items: flex-end;
+
+   } 
+   input[type=text] {
+    width: 310px;
+    height: 50px;
+    border:none;
+    outline: none;
+
+}
+
+.searchIcon {
+    position: absolute;
+    top: 72%;
+    left: -3%;
+
+}
+.locationIcon{
+    position: absolute;
+    top: 160%;
+    left: -29%;
+    border:none;
+
+}
+.serchBtnContainer {
+margin:0 auto;
+}
+.searchBtn {
+    background-color: #FF8149;
+    padding: 17px 133px;
+
+    font-weight: bold;
+}
+
+  }
+
+/* tablet */
+@media only screen and (min-width: 768px) {
+    /* .wrapper{
+        position: relative;
+        top: 30%;
+        left: 25%;
+        width: 700px;
+        height: 80px;
+        margin: 0;
+        padding: 0;
+    } */
+}
